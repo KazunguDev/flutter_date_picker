@@ -2,15 +2,7 @@
 
 A flutter date picker app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2022-08-06 at 11 44 33](https://user-images.githubusercontent.com/88532016/183255443-3576a610-d269-4145-9afc-27df0cc72019.png)
+![Screen Shot 2022-08-06 at 11 44 50](https://user-images.githubusercontent.com/88532016/183255450-a7ad4467-77b2-4135-98a6-4e4d67a7eb67.png)
+![Screen Shot 2022-08-06 at 13 12 40](https://user-images.githubusercontent.com/88532016/183255457-4c3a7d31-1478-4dd3-8853-e1cf71dc3029.png)
